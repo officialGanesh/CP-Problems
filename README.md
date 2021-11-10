@@ -13,3 +13,6 @@ Solving problems related to CP and DSA using python programming language 🚀
 ##### Factorial of any number n (say)
 ###### n*(n-1)*(n-2)....3*2*1
 
+#### 3️⃣ Fibonacci using Recursion
+###### 1,1,2,3,5....
+
