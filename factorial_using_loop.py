@@ -13,6 +13,7 @@ def factorial_using_for_loop(n):
 #print(factorial_using_for_loop(5))
 
 def factorial_using_while_loop(n):
+    """Factorial using while loop"""
     i,fact = 1,1
     while(i<=n):
         fact*=i
