@@ -47,4 +47,14 @@ More efficient algorithms such as quicksort, timsort, or merge sort are used by 
 Worst-case performance:O(n^2) comparisons, O(n^2) swaps
 Best-case performance:O(n) comparisons, O(1) swaps
 Average performance:O(n^2) comparisons, O(n^2) swaps
-Worst-case space complexity:O(n) total, O(1) auxiliary
+Worst-case space complexity:O(n) total, O(1) auxiliary 
+
+#### 7️⃣ Collatz Sequence
+The Collatz conjecture is a conjecture in mathematics that concerns sequences defined as follows:
+start with any positive integer n. Then each term is obtained from the previous term as follows:
+if the previous term is even, the next term is one half of the previous term.
+If the previous term is odd, the next term is 3 times the previous term plus 1. 
+The conjecture is that no matter what value of n, the sequence will always reach 1. 
+The conjecture is named after Lothar Collatz, who introduced the idea in 1937, two years after receiving his doctorate. It is also known as the 3n + 1 problem, the 3n + 1 conjecture, the Ulam conjecture, Kakutani's problem, the Thwaites conjecture, Hasse's algorithm, or the Syracuse problem. 
+The sequence of numbers involved is sometimes referred to as the hailstone sequence or hailstone numbers, or as wondrous numbers. 
+Paul Erdős said about the Collatz conjecture: "Mathematics may not be ready for such problems." He also offered US$500 for its solution.
