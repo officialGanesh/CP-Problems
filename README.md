@@ -36,3 +36,15 @@ Worst-case performance:O(log n)
 Best-case performance:O(1)
 Average performance:O(log n)
 Worst-case space complexity:O(1)
+
+#### 6️⃣ Bubble sort in python
+Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. 
+The pass through the list is repeated until the list is sorted.
+The algorithm, which is a comparison sort, is named for the way smaller or larger elements "bubble" to the top of the list.
+This simple algorithm performs poorly in real world use and is used primarily as an educational tool. 
+More efficient algorithms such as quicksort, timsort, or merge sort are used by the sorting libraries built into popular programming languages such as Python and Java.
+
+Worst-case performance:O(n^2) comparisons, O(n^2) swaps
+Best-case performance:O(n) comparisons, O(1) swaps
+Average performance:O(n^2) comparisons, O(n^2) swaps
+Worst-case space complexity:O(n) total, O(1) auxiliary
