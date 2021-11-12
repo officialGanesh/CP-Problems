@@ -64,3 +64,5 @@ A palindrome is a word, number, phrase, or other sequence of characters which re
 There are also numeric palindromes, including date/time stamps using short digits 11/11/11 11:11 and long digits 02/02/2020. 
 Sentence-length palindromes ignore capitalization, punctuation, and word boundaries. Composing literature in palindromes is an example of constrained writing.
 
+#### 9️⃣ Patterns
+Printing star-number patterns
