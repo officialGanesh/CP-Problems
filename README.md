@@ -58,3 +58,9 @@ The conjecture is that no matter what value of n, the sequence will always reach
 The conjecture is named after Lothar Collatz, who introduced the idea in 1937, two years after receiving his doctorate. It is also known as the 3n + 1 problem, the 3n + 1 conjecture, the Ulam conjecture, Kakutani's problem, the Thwaites conjecture, Hasse's algorithm, or the Syracuse problem. 
 The sequence of numbers involved is sometimes referred to as the hailstone sequence or hailstone numbers, or as wondrous numbers. 
 Paul Erdős said about the Collatz conjecture: "Mathematics may not be ready for such problems." He also offered US$500 for its solution.
+
+#### 8️⃣ Palindrome
+A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam.
+There are also numeric palindromes, including date/time stamps using short digits 11/11/11 11:11 and long digits 02/02/2020. 
+Sentence-length palindromes ignore capitalization, punctuation, and word boundaries. Composing literature in palindromes is an example of constrained writing.
+
