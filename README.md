@@ -65,7 +65,7 @@ There are also numeric palindromes, including date/time stamps using short digit
 Sentence-length palindromes ignore capitalization, punctuation, and word boundaries. Composing literature in palindromes is an example of constrained writing.
 
 #### 9️⃣ Pattern branch
-
 #### 1️0️➡️ Greatest among three numbers
+#### 11 ➡️ Prime number
 
 
