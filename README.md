@@ -67,5 +67,8 @@ Sentence-length palindromes ignore capitalization, punctuation, and word boundar
 #### 9️⃣ Pattern branch
 #### 1️0️➡️ Greatest among three numbers
 #### 11 ➡️ Prime number
+##### [Source] (https://en.wikipedia.org/wiki/Prime_number)
+#### 11 ➡️ Binomial Coefficient
+##### [Source] (https://en.wikipedia.org/wiki/Binomial_coefficient)
 
 
